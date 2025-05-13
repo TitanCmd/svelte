@@ -1,5 +1,11 @@
 # svelte
 
+## 5.28.7
+
+### Patch Changes
+
+- fix: remove unncessary guards that require CSP privilege when removing event attributes ([#15846](https://github.com/sveltejs/svelte/pull/15846))
+
 ## 5.28.6
 
 ### Patch Changes
